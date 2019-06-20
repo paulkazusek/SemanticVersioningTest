@@ -1,0 +1,23 @@
+{
+  "name": "semanticversioningtest",
+  "version": "0.4.0",
+  "description": "short description",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/paulkazusek/SemanticVersioningTest.git"
+  },
+  "keywords": [
+    "Semantic",
+    "Versioning"
+  ],
+  "author": "Paul Kazusek",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/paulkazusek/SemanticVersioningTest/issues"
+  },
+  "homepage": "https://github.com/paulkazusek/SemanticVersioningTest#readme"
+}
