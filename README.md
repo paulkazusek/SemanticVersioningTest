@@ -1,1 +1,1 @@
-"# Semantic Versioning with Git" 
+# Semantic Versioning with Git
